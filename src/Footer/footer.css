@@ -1,0 +1,44 @@
+.bgimagfooter {
+  background: transparent linear-gradient(0deg, #200b6a 0%, #100635 100%) 0% 0%
+    no-repeat padding-box;
+  height: 80vh;
+}
+.footerImg {
+  display: flex;
+  justify-content: center;
+  padding-top: 3rem;
+}
+.footertext {
+  width: 935px;
+  height: 119px;
+  /* UI Properties */
+  text-align: center;
+  font: normal normal 300 18px/32px Gilroy;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  text-align: center;
+  margin: auto;
+  padding-top: 3rem;
+}
+.socialicons {
+  display: flex;
+  justify-content: center;
+}
+.socialiconsimg {
+  margin-right: 1rem;
+  padding-top: 3rem;
+}
+hr {
+  border: 1px solid #fff;
+  width: 80%;
+  margin: auto;
+  margin-top: 3rem;
+}
+.copyright {
+  text-align: left;
+  font: normal normal 300 16px/19px Gilroy;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}

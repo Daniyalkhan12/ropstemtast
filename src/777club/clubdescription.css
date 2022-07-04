@@ -1,0 +1,16 @@
+.bgimg2{
+    background-image: url("../Assets/Group184.png");
+    height: 70vh;
+}
+.clubpasses{
+    
+    width: 350;
+    height: 200px;
+    float: right;
+    margin-top: 3rem;
+    
+    opacity: 1;
+}
+.clubintro{
+    color: white;
+}

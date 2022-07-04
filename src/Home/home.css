@@ -1,0 +1,65 @@
+.bgimage {
+  height: 100vh;
+  background-image: url("../Assets/Group157.png");
+}
+.navbar {
+  display: flex;
+  list-style: none;
+  color: #ffffff;
+  opacity: 1;
+  text-align: left;
+}
+.contactus {
+  background: transparent linear-gradient(99deg, #e600ff 0%, #2e2cf3 100%) 0% 0%
+    no-repeat padding-box;
+  border-radius: 100px;
+  opacity: 1;
+  color: white;
+  font-size: 1rem;
+}
+.connectwalbtn {
+  background: transparent linear-gradient(99deg, #e600ff 0%, #2e2cf3 100%) 0% 0%
+    no-repeat padding-box;
+  border-radius: 100px;
+  opacity: 1;
+  color: white;
+  font-size: 2rem;
+}
+.container {
+  padding: 1rem;
+}
+.mainheading {
+  width: 579px;
+  height: 243px;
+  text-align: left;
+  font: normal normal 5rem Gilroy;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+  margin-top: 3rem !important;
+}
+.secheading {
+  width: 325px;
+  height: 40px;
+  text-align: left;
+  font: normal normal 2rem Gilroy;
+  letter-spacing: 0px;
+  color: #ffffff;
+  opacity: 1;
+}
+.charimg1 {
+  height: 8rem;
+  padding: 0.3rem;
+}
+.charimg2 {
+  width: 222px;
+  height: 222px;
+  /* UI Properties */
+  background: transparent url("../Assets/Group103.png") 0% 0% no-repeat
+    padding-box;
+  opacity: 1;
+  border-radius: 2rem;
+}
+.logoimg {
+  height: 80px;
+}

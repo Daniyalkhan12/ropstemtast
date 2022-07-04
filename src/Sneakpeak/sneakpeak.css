@@ -1,0 +1,9 @@
+.bgimg3 {
+  background-image: url("../Assets/Group177.png");
+  height: 100vh;
+}
+.heading {
+  text-align: center;
+  color: white;
+  padding: 3rem;
+}
